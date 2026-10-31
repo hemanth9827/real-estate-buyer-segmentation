@@ -1,0 +1,20 @@
+{
+  "client_records_raw":2000.0,
+  "unique_clients_after_dedup":2000.0,
+  "property_records":10000.0,
+  "sold_property_records":7305.0,
+  "buyers_with_sold_property":2000.0,
+  "available_listings":2695.0,
+  "countries":10.0,
+  "regions":57.0,
+  "investment_clients":615.0,
+  "home_clients":1385.0,
+  "loan_yes":736.0,
+  "mean_satisfaction":3.029,
+  "mean_age":56.4315,
+  "total_sold_value":2520750960.8400001526,
+  "mean_sold_price":345072.0001149898,
+  "best_k":3.0,
+  "best_silhouette":0.1483281802,
+  "hierarchical_ari_sample":0.3533915222
+}
